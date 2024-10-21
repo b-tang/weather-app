@@ -1,6 +1,6 @@
 # Weather App ☀️🌧️
 
-**Welcome to the Weather App, a simple yet intuitive web application that provides real-time weather information for cities around the world. 🌍**
+**Welcome to the Weather App, a simple yet intuitive web application that provides real-time weather information for cities around the world! 🌍**
 
 ## Features
 - 🌡️ Current Weather: Get up-to-date temperature, humidity, wind speed, and more.
