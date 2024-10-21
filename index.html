@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Weather App using HTML CSS and Javascript | Codehal</title>
+    <title>Weather App</title>
     <link rel="stylesheet" href="style.css" />
-    <link
-      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
-      rel="stylesheet"
-    />
-  </head>
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+</head>
 
-  <body>
+<body>
     <div class="container">
         <div class="search-box">
             <i class="bx bxs-map"></i>
@@ -25,7 +23,7 @@
                 <div class="info-weather">
                     <div class="weather">
                         <img src="images/cloud.png">
-                        <p class="temperature">16<span>°C</span></p>
+                        <p class="temperature">0<span>°C</span></p>
                         <p class="description">Broken Clouds</p>
                     </div>
                 </div>
@@ -53,8 +51,16 @@
                 </div>
             </div>
         </div>
+
+        <div class="not-found">
+            <div class="box">
+                <img src="images/404.png">
+                <p>Oops! Location not found!</p>
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
-  </body>
+</body>
+
 </html>
