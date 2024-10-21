@@ -26,4 +26,4 @@
 3. Open the index.html file in your browser to start using the app.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
