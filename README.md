@@ -2,6 +2,8 @@
 
 **Welcome to the Weather App, a simple yet intuitive web application that provides real-time weather information for cities around the world! 🌍**
 
+![Weather App Page](https://github.com/user-attachments/assets/059bd2e6-3a47-4681-80b5-84e34b345f75)
+
 ## Features
 - 🌡️ Current Weather: Get up-to-date temperature, humidity, wind speed, and more.
 - 🏙️ City Search: Search for weather conditions by entering any city name.
