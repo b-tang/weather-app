@@ -10,9 +10,9 @@
 - 🔄 Auto-Refresh: The app auto-refreshes the weather data to keep you updated in real-time.
 
 ## Technologies Used
-- HTML, CSS & JavaScript: Clean and responsive design.
+- HTML & CSS: Clean and responsive design.
 - JavaScript: Dynamic weather data fetching and interactive UI.
-- OpenWeatherMap API: Reliable weather data source.
+- [OpenWeatherMap API](https://openweathermap.org/api): Reliable weather data source.
 
 ## Getting Started
 1. Clone the repository:
